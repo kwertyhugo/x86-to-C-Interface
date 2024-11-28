@@ -1,0 +1,3 @@
+﻿  main.c
+K:\Kurt\LBYARCH\x86-C interface\x86_64_EuclideanDistance\main.c(54,15): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  x86_64_EuclideanDistance.vcxproj -> K:\Kurt\LBYARCH\x86-C interface\x86_64_EuclideanDistance\x64\Debug\x86_64_EuclideanDistance.exe
