@@ -16,7 +16,7 @@ $X_1$: X-coordinate of the first vector, single precision float
 $X_2$: X-coordinate of the second vector, single precision float  
 $Y_1$: Y-coordinate of the first vector, single precision float  
 $Y_2$: Y-coordinate of the second vector, single precision float  
-$Z_$ : Euclidean Distance
+$Z$ : Euclidean Distance
 
 # Execution Time and Analysis: C vs x86_64 Assembly
 
