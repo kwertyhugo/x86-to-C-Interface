@@ -20,6 +20,7 @@ $Z$ : Euclidean Distance
 
 # Execution Time and Analysis: C vs x86_64 Assembly
 This first image shows the execution time for around 16777216 entries, randomly generated. The execution time for C is 653.80 ms, while assembly language is executed at 80.30 ms.
+
 ![Screenshot 2024-12-02 232513](https://github.com/user-attachments/assets/a3fcc044-e05d-48b2-aaf0-a12de05af7ef)
 
 The second image also shows the large gap in the execution time for assembly and C, with each having 243.67 ms and 2003.33 ms, respectively.
